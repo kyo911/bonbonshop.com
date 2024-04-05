@@ -8,7 +8,7 @@
 <body>
     <h1>Giới thiệu</h1>
     <?php
-        echo 'Đây là trang <b style="col:red">Giới thiệu</b>'
+        echo 'Đây là trang <b style="color: red;">Giới thiệu</b>';
     ?>
 </body>
 </html>
